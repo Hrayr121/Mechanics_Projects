@@ -1,1 +1,5 @@
+Final project for the CS140B-Mechanics class.
+The project aims at studying the movement of objects inside a 2D Billiard "table".
+All the code will be written in JAVA.
+
 
