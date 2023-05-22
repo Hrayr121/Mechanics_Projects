@@ -5,6 +5,6 @@ So far, I think the energy conservation laws,momentum calculation formulas, and 
 
 In task 1,a 2D horizontal planar geometry will be considered, in which a particle moves with constant 
 velocity along straight lines until it elastically reflects off the boundary.First, I need to simulate the circular billiard table, upon which the said particle will be moving. The initial point of the particle will be randomly selected.The initial momentum must be |𝑝⃗0| = 1.
-After each reflection the new momentum must be calculated.
+After each reflection the new momentum must be calculated. 
 
 
