@@ -5,5 +5,5 @@
  * @author Hrayr
  *
  */
-module TaskSimulations {
+module Billiard {
 }
